@@ -196,6 +196,11 @@ footer .line-footer{
     padding: 20px 0;
 }
 
+.interface .line-footer p{
+        color: #fff;
+}
+
+
 @media screen and (max-width:1020px){
     .flex{
         flex-direction: column;
@@ -251,4 +256,8 @@ footer .line-footer{
     footer .line-footer{
         text-align: center;
     }
+    .interface .line-footer p{
+        color: #fff;
+    }
+
 }
